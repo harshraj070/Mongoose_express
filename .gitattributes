@@ -1,0 +1,6 @@
+# Ensure all text files use LF
+* text=auto
+
+# Prevent changing line endings for specific binary or data files (if needed)
+*.jpg binary
+*.png binary
